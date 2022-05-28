@@ -16,18 +16,19 @@ to command-line arguments.
 
 **Extensions**: the `structopt` crate.
 
-- [Introduction](#user-content-introduction)
-- [Project spec](#user-content-project-spec)
-- [Installation](#user-content-installation)
-- [Project setup](#user-content-project-setup)
-- [Part 1: Make the tests compile](#user-content-part-1-make-the-tests-compile)
-  - [Aside: Testing tips](#user-content-aside-testing-tips)
-- [Part 2: Accept command line arguments](#user-content-part-2-accept-command-line-arguments)
-- [Part 3: Cargo environment variables](#user-content-part-3-cargo-environment-variables)
-- [Part 4: Store values in memory](#user-content-part-4-store-values-in-memory)
-- [Part 5: Documentation](#user-content-part-5-documentation)
-- [Part 6: Ensure good style with `clippy` and `rustfmt`](#user-content-part-6-ensure-good-style-with-clippy-and-rustfmt)
-- [Extension 1: `structopt`](#user-content-extension-1-structopt)
+- [PNA Rust Project 1: The Rust toolbox](#pna-rust-project-1-the-rust-toolbox)
+  - [Introduction](#introduction)
+  - [Project spec](#project-spec)
+  - [Installation](#installation)
+  - [Project setup](#project-setup)
+  - [Part 1: Make the tests compile](#part-1-make-the-tests-compile)
+    - [Aside: Testing tips](#aside-testing-tips)
+  - [Part 2: Accept command line arguments](#part-2-accept-command-line-arguments)
+  - [Part 3: Cargo environment variables](#part-3-cargo-environment-variables)
+  - [Part 4: Store values in memory](#part-4-store-values-in-memory)
+  - [Part 5: Documentation](#part-5-documentation)
+  - [Part 6: Ensure good style with `clippy` and `rustfmt`](#part-6-ensure-good-style-with-clippy-and-rustfmt)
+  - [Extension 1: `structopt`](#extension-1-structopt)
 
 
 ## Introduction
